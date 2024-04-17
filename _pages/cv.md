@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science & Engineering, Michigan State University, 2028 (expected)
+* M.S. in Computer Science, California State University, 2023
+* B.S. in Computer Science, Cal Poly Humboldt, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - Current: Research Assistant
+  * Michigan State University
+  * Duties included: Link Prediction, Graph Generation
+  * Supervisor: Dr. Jiliang Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022 - Spring 2023: Teaching Assistant
+  * California State University, Chico
+  * Duties included: Grading, Teaching Lab Sections, Office Hours
+  * Supervisor: Dr. Kurtis Kredo II, Dr. Richard Carter Tillquist, Michael Larson
   
 Skills
 ======
