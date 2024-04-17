@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jay's"
 description              : &description "Welcome to Jay's Academic Website!"
@@ -22,7 +22,7 @@ repository               : "revolins/revolins.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jay"
+  name             : "Jonathan (Jay) Revolinsky"
   pronouns         : "he/him/his"  
   bio              : "CSE Phd Student"
   location         : "East Lansing, MI"
