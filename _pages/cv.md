@@ -26,8 +26,20 @@ Work experience
   * California State University, Chico
   * Duties included: Grading, Teaching Lab Sections, Office Hours
   * Supervisor: Dr. Kurtis Kredo II, Dr. Richard Carter Tillquist, Michael Larson
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    https://arxiv.org/abs/2406.08788
+  {% endfor %}</ul>
   
-Skills
+<!--Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+  Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,18 +47,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
