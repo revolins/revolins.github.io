@@ -29,8 +29,14 @@ Work experience
 
 Publications
 ======
+  <!-- Co-authored with Harry -->
   <ul>{% for post in site.publications reversed %}
     https://arxiv.org/abs/2406.08788
+  {% endfor %}</ul>
+
+  <!-- Second Author with Harry -->
+  <ul>{% for post in site.publications reversed %}
+    https://arxiv.org/abs/2406.11898
   {% endfor %}</ul>
   
 <!--Talks
