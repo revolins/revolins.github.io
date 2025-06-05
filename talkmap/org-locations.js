@@ -1,27 +1,5 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
-  ],
-  [
-    "London, UK",
-    51.5073219,
-    -0.1276473
-  ],
-  [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ]
-];
-var addressPoints = [
-  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.4893335,
     -0.14405508452768728

@@ -9,20 +9,12 @@
   padding: var(--#{$fa-css-prefix}-border-padding, #{$fa-border-padding});
 }
 
-<<<<<<< HEAD
-.#{$fa-css-prefix}-pull-left { 
-=======
 .#{$fa-css-prefix}-pull-left {
->>>>>>> template/master
   float: left;
   margin-right: var(--#{$fa-css-prefix}-pull-margin, #{$fa-pull-margin}); 
 }
 
-<<<<<<< HEAD
-.#{$fa-css-prefix}-pull-right { 
-=======
 .#{$fa-css-prefix}-pull-right {
->>>>>>> template/master
   float: right;
   margin-left: var(--#{$fa-css-prefix}-pull-margin, #{$fa-pull-margin}); 
 }
