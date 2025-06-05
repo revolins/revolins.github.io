@@ -8,15 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "Homepage"
-title_separator          : "-"
-name                     : &name "Jay's"
-description              : &description "Welcome to Jay's Academic Website!"
-url                      : https://revolins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "revolins/revolins.github.io"
-=======
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
@@ -25,31 +16,12 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
->>>>>>> template/master
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-<<<<<<< HEAD
-  avatar           : "profile.jpg"
-  name             : "Jonathan (Jay) Revolinsky"
-  pronouns         : "he/him/his"  
-  bio              : "CSE Phd Student"
-  location         : "East Lansing, MI"
-  employer         : "Michigan State University"
-  uri              : # URL
-  email            : "revolins@msu.edu" 
-
-  # Academic websites
-  arxiv            : https://arxiv.org/a/revolinsky_j_1.html
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-=======
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
@@ -69,26 +41,17 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
->>>>>>> template/master
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-<<<<<<< HEAD
-  github           : # "academicpages"
-=======
   github           : "academicpages"
->>>>>>> template/master
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-<<<<<<< HEAD
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-=======
   bluesky          : "bsky.app" # Replace this with you Bluesky username
->>>>>>> template/master
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -105,20 +68,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-<<<<<<< HEAD
-  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
-=======
   twitter          : # Username for X / Twitter
->>>>>>> template/master
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-<<<<<<< HEAD
-  zhihu            : # URL
-
-=======
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -129,7 +84,6 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
->>>>>>> template/master
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -137,11 +91,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-<<<<<<< HEAD
-talkmap_link             : false #change to true to add link to talkmap on talks page
-=======
 talkmap_link             : false      #change to true to add link to talkmap on talks page
->>>>>>> template/master
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -169,10 +119,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-<<<<<<< HEAD
-=======
   hide                   : false     # change to true to hide the RSS feed in the footer
->>>>>>> template/master
   path                   : # blank (default) uses feed.xml
 
 
@@ -201,11 +148,7 @@ social:
 
 # Analytics
 analytics:
-<<<<<<< HEAD
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-=======
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
->>>>>>> template/master
   google:
     tracking_id          :
 
@@ -220,25 +163,6 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-<<<<<<< HEAD
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-=======
   - .github
   - .jekyll-assets-cache
   - .sass-cache
@@ -259,7 +183,6 @@ exclude:
   - package.json*
   - Rakefile
   - README
->>>>>>> template/master
   - tmp
   - vendor
 keep_files:
@@ -289,11 +212,7 @@ kramdown:
   enable_coderay: false
 
 
-<<<<<<< HEAD
-# Collections
-=======
 # These settings control the types of collections used by the template
->>>>>>> template/master
 collections:
   teaching:
     output: true
@@ -309,11 +228,7 @@ collections:
     permalink: /:collection/:path/
 
 
-<<<<<<< HEAD
-# Defaults
-=======
 # These settings control how pages and collections are included in the site
->>>>>>> template/master
 defaults:
   # _posts
   - scope:
@@ -380,28 +295,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-<<<<<<< HEAD
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-=======
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
->>>>>>> template/master
 
 
 # Plugins
 plugins:
-<<<<<<< HEAD
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-=======
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
@@ -416,7 +314,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
->>>>>>> template/master
   - jemoji
 
 

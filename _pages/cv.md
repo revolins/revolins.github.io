@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-<<<<<<< HEAD
-* Ph.D in Computer Science & Engineering, Michigan State University, 2028 (expected)
+* Ph.D in Computer Science & Engineering, Michigan State University, 2027 (expected)
 * M.S. in Computer Science, California State University, 2023
 * B.S. in Computer Science, Cal Poly Humboldt, 2021
 
@@ -20,7 +19,7 @@ Work experience
 ======
 * Fall 2023 - Current: Research Assistant
   * Michigan State University
-  * Duties included: Link Prediction, Graph Generation
+  * Duties included: Link Prediction, Graph Generation, Out-of-Distribution in ML
   * Supervisor: Dr. Jiliang Tang
 
 * Spring 2022 - Spring 2023: Teaching Assistant
@@ -47,30 +46,6 @@ Publications
   {% endfor %}</ul>
 
   Skills
-=======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
->>>>>>> template/master
 ======
 * Skill 1
 * Skill 2
@@ -78,8 +53,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-<<<<<<< HEAD
-=======
 
 Publications
 ======
@@ -92,7 +65,6 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
->>>>>>> template/master
   
 Teaching
 ======
@@ -102,8 +74,4 @@ Teaching
   
 Service and leadership
 ======
-<<<<<<< HEAD
 * Currently signed in to 43 different slack teams -->
-=======
-* Currently signed in to 43 different slack teams
->>>>>>> template/master
