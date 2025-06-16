@@ -1,61 +1,70 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jay Revolinsky",
+    "email": "revolins@msu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "revolins.github.io",
+    "summary": "PhD Student, Research Assistant @ MSU DSE Lab",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "East, Lansing",
       "countryCode": "US",
-      "region": ""
+      "region": "Michigan"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=-n4rRdcAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0007-4048-1717"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "revolins",
+        "url": "https://github.com/revolins"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Michigan State University",
+      "area": "Ph.D",
+      "studyType": "Computer Science & Engineering",
+      "startDate": "2023",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "California State University - Chico",
+      "area": "M.S.",
+      "studyType": "Computer Science",
+      "startDate": "2021",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "California Polytechnic University - Humboldt",
+      "area": "B.S.",
+      "studyType": "Computer Science",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of California, Santa Barbara",
+      "area": "B.A.",
+      "studyType": "Biological Anthropology",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +75,59 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Towards Understanding the Generalizability of Link Predictors Under Distributions Shifts",
+      "publisher": "KDD",
+      "releaseDate": "KDD Version - 08/2025!",
+      "website": "https://arxiv.org/pdf/2406.08788",
+      "summary": "We introduce LPShift to induce controllable distribution shift, revealing GNN4LP suffers from structural shift."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Towards Better Benchmark Datasets For Inductive Knowledge Graph Completion",
+      "publisher": "KDD",
+      "releaseDate": "KDD Version - 08/2025!",
+      "website": "https://arxiv.org/pdf/2406.11898",
+      "summary": "We fix the PPR Shortcut in KG Datasets to ensure models are properly-learning from KG structure."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "The Out-of-Distribution Problem in Link Prediction",
+      "event": "CSU Chico - Computer Science",
+      "date": "2025-03-12",
+      "location": "Chico, CA, USA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Towards Understanding the Generalizability of Link Predictors Under Distributions Shifts",
+      "event": "KDD Conference",
+      "date": "2025-08-06",
+      "location": "Toronto, ON, CAN",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Networking & Telecommunications",
+      "institution": "California State University - Chico, Electrical & Computer Engineering",
+      "date": "2022-2023",
+      "role": "Computer Science Teaching Associate",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Introduction to Programming, Data Structures & Algorithms, Machine Learning (Undergraduate), Machine Learning (graduate)",
+      "institution": "California State University - Chico, Computer Science",
+      "date": "2021-2023",
+      "role": "Computer Science Teaching Assistant",
       "description": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Upcoming Repository",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Coming Fall 2025!"
     }
   ]
 }
