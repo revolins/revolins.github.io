@@ -14,6 +14,7 @@ Education
 * Ph.D in Computer Science & Engineering, Michigan State University, 2027 (expected)
 * M.S. in Computer Science, California State University - Chico, 2023
 * B.S. in Computer Science, California Polytechnic University - Humboldt, 2021
+* B.A. in Biological Anthropology, University of California, Santa Barbara, 2019
 
 Work experience
 ======
