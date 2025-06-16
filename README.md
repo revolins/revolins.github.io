@@ -3,6 +3,10 @@
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
+To update sidebar go to _config.yml
+
+to update publications go to individual files in _publications
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
