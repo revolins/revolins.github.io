@@ -5,8 +5,9 @@ category: conferences
 permalink: /publication/kg_ppr
 excerpt: 'This paper resolves the PPR shortcut which neural KG models often leverage to achieve high-performance.'
 date: 2025-08-07
-venue: 'KDD 2025'
+venue: 'KDD'
 paperurl: 'https://arxiv.org/pdf/2406.11898'
+bibtexurl: 'https://arxiv.org/src/2406.11898'
 citation: 'Shomer, Harry, Jay Revolinsky, and Jiliang Tang. "Towards Better Benchmark Datasets for Inductive Knowledge Graph Completion." arXiv preprint arXiv:2406.11898 (2024).'
 ---
 
